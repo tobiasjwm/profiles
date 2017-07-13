@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Energy Saver</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mdm.globalmacit.c27674e0-6904-0132-7b0d-442c030d553d.alacarte.energysaver.32d1dfb0-6905-0132-7b0f-442c030d553d</string>
+			<key>PayloadType</key>
+			<string>com.apple.MCX</string>
+			<key>PayloadUUID</key>
+			<string>32d1dfb0-6905-0132-7b0f-442c030d553d</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>com.apple.EnergySaver.desktop.ACPower</key>
+			<dict>
+				<key>Automatic Restart On Power Loss</key>
+				<integer>0</integer>
+				<key>Disk Sleep Timer-boolean</key>
+				<true/>
+				<key>Display Sleep Timer</key>
+				<integer>15</integer>
+				<key>Sleep On Power Button</key>
+				<integer>0</integer>
+				<key>System Sleep Timer</key>
+				<integer>0</integer>
+				<key>Wake On LAN</key>
+				<integer>1</integer>
+			</dict>
+			<key>com.apple.EnergySaver.desktop.ACPower-ProfileNumber</key>
+			<integer>-1</integer>
+			<key>com.apple.EnergySaver.portable.ACPower</key>
+			<dict>
+				<key>Automatic Restart On Power Loss</key>
+				<integer>0</integer>
+				<key>Disk Sleep Timer-boolean</key>
+				<true/>
+				<key>Display Sleep Timer</key>
+				<integer>15</integer>
+				<key>System Sleep Timer</key>
+				<integer>0</integer>
+				<key>Wake On LAN</key>
+				<integer>1</integer>
+			</dict>
+			<key>com.apple.EnergySaver.portable.ACPower-ProfileNumber</key>
+			<integer>-1</integer>
+			<key>com.apple.EnergySaver.portable.BatteryPower</key>
+			<dict>
+				<key>Automatic Restart On Power Loss</key>
+				<integer>0</integer>
+				<key>Disk Sleep Timer-boolean</key>
+				<true/>
+				<key>Display Sleep Timer</key>
+				<integer>5</integer>
+				<key>System Sleep Timer</key>
+				<integer>10</integer>
+				<key>Wake On LAN</key>
+				<integer>1</integer>
+			</dict>
+			<key>com.apple.EnergySaver.portable.BatteryPower-ProfileNumber</key>
+			<integer>-1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Energy Saver Profile sets devices to "Never Sleep" when connected to power, sleep after 10 minutes on battery, and WOL.</string>
+	<key>PayloadDisplayName</key>
+	<string>Energy Settings</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.mdm.globalmacit.c27674e0-6904-0132-7b0d-442c030d553d.alacarte</string>
+	<key>PayloadOrganization</key>
+	<string>GlobalMac IT</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>c27674e0-6904-0132-7b0d-442c030d553d</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

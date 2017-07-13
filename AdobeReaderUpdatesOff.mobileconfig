@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.adobe.Reader</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>10</key>
+								<dict>
+									<key>FeatureLockdown</key>
+									<dict>
+										<key>bUpdater</key>
+										<false/>
+									</dict>
+								</dict>
+								<key>11</key>
+								<dict>
+									<key>FeatureLockdown</key>
+									<dict>
+										<key>bUpdater</key>
+										<false/>
+									</dict>
+								</dict>
+								<key>CheckForUpdatesModeAtStartup</key>
+								<array>
+									<integer>1</integer>
+									<integer>0</integer>
+								</array>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.ccd36609-6ceb-4664-ab80-0714b9f973fe.alacarte.customsettings.a44db717-b2d4-4474-9419-292f1bf05d53</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>a44db717-b2d4-4474-9419-292f1bf05d53</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.adobe.Reader
+
+Git revision: 1d30395cd4</string>
+	<key>PayloadDisplayName</key>
+	<string>AdobeReaderUpdatesOff</string>
+	<key>PayloadIdentifier</key>
+	<string>AdobeReaderUpdatesOff</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>ccd36609-6ceb-4664-ab80-0714b9f973fe</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

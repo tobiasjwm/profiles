@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.apple.mcxmenuextras</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>Keychain.menu</key>
+								<string>True</string>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.95c07f34-57fe-451d-92a5-6923d16b0198.alacarte.customsettings.61f7d108-0eef-47be-8443-3f139392ed92</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>61f7d108-0eef-47be-8443-3f139392ed92</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.apple.mcxmenuextras
+
+Git revision: 1d30395cd4</string>
+	<key>PayloadDisplayName</key>
+	<string>Keychain Menu Extra</string>
+	<key>PayloadIdentifier</key>
+	<string>KeychainMenuExtra</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>95c07f34-57fe-451d-92a5-6923d16b0198</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
